@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.13.1](https://github.com/devopsarr/terraform-provider-lidarr/compare/v1.13.0...v1.13.1) (2025-01-25)
+
+
+### Bug Fixes
+
+* **deps:** update hotio/lidarr docker tag to release-2.8.2.4493 ([b2cf930](https://github.com/devopsarr/terraform-provider-lidarr/commit/b2cf9308105ddccd407b5f2e7553b8843c8bbf0a))
+* **deps:** update module github.com/devopsarr/lidarr-go to v1.2.0 ([660e04f](https://github.com/devopsarr/terraform-provider-lidarr/commit/660e04f8b26266db0b7478d52ebe3299aa6181a2))
+* **deps:** update module github.com/stretchr/testify to v1.10.0 ([79c8c23](https://github.com/devopsarr/terraform-provider-lidarr/commit/79c8c234c3d439344bdecdef4c73c34e633e31c8))
+
 ## [1.13.0](https://github.com/devopsarr/terraform-provider-lidarr/compare/v1.12.0...v1.13.0) (2024-10-20)
 
 
